@@ -4,6 +4,6 @@
     </title>
   </head>
   <body>
-    Hola mundo html2
+    Hola mundo html2 CON GITHUB SMARTGIT
   </body>
 </html>
